@@ -10,7 +10,7 @@ if (isset($_GET["my-name"])) {
   <?php
   echo $_GET["my-name"];
   } else {
-  <?
+  ?<
   <p>Nothing sent to the page<p>
    <?php
 }
