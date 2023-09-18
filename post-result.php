@@ -4,7 +4,7 @@ include "view-header.php";
 ?>
     <h1>Post Result</h1>
   <?php
-echo getDisplay()
+echo getDisplay();
 include "view-footer.php";
 
 function getDisplay() {
