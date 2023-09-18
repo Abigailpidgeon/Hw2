@@ -10,7 +10,7 @@ if (isset($_POST["my-name"])) {
   <?php
   echo $_POST["my-name"];
   } else {
-  ?<
+  ?>
   <p>Nothing posted to the page<p>
    <?php
 }
